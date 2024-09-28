@@ -1,4 +1,5 @@
 Project: Real Estate Price Prediction in Bengaluru
+
 Project Overview:
 This project aimed to develop a predictive model to estimate real estate property prices in Bengaluru, India. By leveraging a dataset containing various property attributes, the model sought to provide accurate price predictions for potential buyers and sellers.
 
